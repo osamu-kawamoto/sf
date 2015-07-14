@@ -1,6 +1,6 @@
 <apex:page standardController="Account">
 
-    <apex:pageBlock title="My Content">
+    <apex:pageBlock title="My Contenttest">
 
         <apex:pageBlockTable value="{!account.Contacts}" var="item">
 
