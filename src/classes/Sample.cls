@@ -4,6 +4,6 @@ public class Sample {
     }
     
     public void helloMethod() {
-        System.debug('Hello World XXXABCXXテストABC');
+        System.debug('Hello World XXXABCXXテストABCD');
     }
 }
