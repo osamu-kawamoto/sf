@@ -1,6 +1,6 @@
 @isTest
 public with sharing class SampleAccountTriggerTest {
-// test
+// test test
     public static testmethod void t1() {
         helloMethod();
 
